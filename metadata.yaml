@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1703
     wikipedia: http://en.wikipedia.org/wiki/Charles_Klein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23603#The-Music-Master--Novelized-from-the-Play
 gutenberg_issued: '2007-11-24'
 gutenberg_type: Text
 identifiers:
